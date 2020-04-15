@@ -1,0 +1,48 @@
+# Half-Life: Alyx Scripting API
+
+## Classes
+
+- [CMarkupVolumeTagged](CMarkupVolumeTagged.md)
+- [GlobalSys](GlobalSys.md)
+- [CHL2_Player](CHL2_Player.md)
+- [CPointTemplate](CPointTemplate.md)
+- [CPropHMDAvatar](CPropHMDAvatar.md)
+- [CEntityInstance](CEntityInstance.md)
+- [CBodyComponent](CBodyComponent.md)
+- [CBaseAnimating](CBaseAnimating.md)
+- [CBaseModelEntity](CBaseModelEntity.md)
+- [Decider](Decider.md)
+- [CBaseCombatCharacter](CBaseCombatCharacter.md)
+- [CBasePlayer](CBasePlayer.md)
+- [CBaseTrigger](CBaseTrigger.md)
+- [CPointWorldText](CPointWorldText.md)
+- [CEnvEntityMaker](CEnvEntityMaker.md)
+- [CLogicScript](CLogicScript.md)
+- [CInfoWorldLayer](CInfoWorldLayer.md)
+- [CBaseFlex](CBaseFlex.md)
+- [CPointClientUIWorldPanel](CPointClientUIWorldPanel.md)
+- [CEnvProjectedTexture](CEnvProjectedTexture.md)
+- [CPropVRHand](CPropVRHand.md)
+- [CPhysicsProp](CPhysicsProp.md)
+- [Convars](Convars.md)
+- [CLogicRelay](CLogicRelay.md)
+- [CDebugOverlayScriptHelper](CDebugOverlayScriptHelper.md)
+- [CCustomGameEventManager](CCustomGameEventManager.md)
+- [CAI_BaseNPC](CAI_BaseNPC.md)
+- [CInfoData](CInfoData.md)
+- [CScriptParticleManager](CScriptParticleManager.md)
+- [CParticleSystem](CParticleSystem.md)
+- [CEntities](CEntities.md)
+- [CScriptPrecacheContext](CScriptPrecacheContext.md)
+- [SteamInfo](SteamInfo.md)
+- [CScriptKeyValues](CScriptKeyValues.md)
+- [CNativeOutputs](CNativeOutputs.md)
+- [CEnvTimeOfDay2](CEnvTimeOfDay2.md)
+- [CSceneEntity](CSceneEntity.md)
+- [CBaseEntity](CBaseEntity.md)
+- [CEntityScriptFramework](CEntityScriptFramework.md)
+
+## Globals
+
+- [Globals](globals.md)
+
